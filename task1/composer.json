@@ -1,0 +1,13 @@
+{
+  "name": "tech/testtask1",
+  "description": "test task for get job",
+  "authors": [
+    {
+      "name": "Konstantin Shikhov",
+      "email": "konstantinshikhov@gmail.com"
+    }
+  ],
+  "require": {
+    "symfony/console": "^3.4"
+  }
+}
